@@ -1,0 +1,19 @@
+# TODO: Define agent configurations
+
+detector_agent:
+  # TODO: Add configuration
+  # role: "Object Detection Specialist"
+  # goal: "Accurately identify all objects in images"
+  # backstory: "You are an expert at detecting and identifying objects in images."
+
+counter_agent:
+  # TODO: Add configuration
+  # role: "Data Analyst"
+  # goal: "Count and categorize detected objects"
+  # backstory: "You excel at analyzing lists and counting items."
+
+summarizer_agent:
+  # TODO: Add configuration
+  # role: "Report Writer"
+  # goal: "Create clear, concise summaries"
+  # backstory: "You are skilled at synthesizing information into readable reports."

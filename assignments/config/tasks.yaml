@@ -1,0 +1,7 @@
+detect_genre_task:
+  description: "Given a short book blurb: {blurb}, return the single best-fit genre as a lowercase string (e.g., 'fantasy')."
+  expected_output: "One lowercase genre string only, such as 'fantasy', 'mystery', 'sci-fi', 'romance', etc."
+
+write_tagline_task:
+  description: "Using the detected genre and the original blurb {blurb}, write a one-sentence, punchy tagline that could go on the book's cover."
+  expected_output: "A single-sentence tagline that reflects the blurb {blurb} and genre."
